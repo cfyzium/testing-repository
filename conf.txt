@@ -1,3 +1,4 @@
+// cp1251 windows-1251
 // Configuration Wander
 English text.
 –усский текст в кодировке виндовс-тыс€чадвестип€тьдес€тодин.
