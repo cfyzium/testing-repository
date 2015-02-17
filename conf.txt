@@ -1,2 +1,3 @@
-// Конфигурация Wander
+Some english text.
+// ГЉГ®Г­ГґГЁГЈГіГ°Г Г¶ГЁГї Wander
 unit conf;
