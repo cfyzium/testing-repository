@@ -1,4 +1,2 @@
-Some english text.
-// Конфигурация Wander
+English text.
 Русский текст в кодировке виндовс-тысячадвестипятьдесятодин.
-unit conf;
